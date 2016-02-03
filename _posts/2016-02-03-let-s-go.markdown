@@ -1,0 +1,6 @@
+---
+published: true
+title: Let's go!
+layout: post
+---
+Here's the content
